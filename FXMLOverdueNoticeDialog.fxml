@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="243.0" prefWidth="486.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/9" fx:controller="administrative.FXMLOverdueNoticeDialogController">
+   <children>
+      <Label fx:id="success" layoutX="57.0" layoutY="74.0" prefHeight="82.0" prefWidth="372.0" />
+      <Label fx:id="errorMessage" layoutX="57.0" layoutY="188.0" prefHeight="82.0" prefWidth="372.0" />
+   </children>
+</AnchorPane>
